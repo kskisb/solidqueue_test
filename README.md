@@ -16,7 +16,7 @@ $ docker-compose run web bash
           schedule: every second # 毎秒
 ```
 
-### schdule: の指定方法
+### schdule: の指定方法(例)
 | 文字列           | 意味                                    |
 |------------------|-----------------------------------------|
 | every second     | 毎秒                                    |
