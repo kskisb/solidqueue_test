@@ -61,3 +61,5 @@ group :development do
 end
 
 gem 'solid_queue'
+
+gem 'mission_control-jobs'
